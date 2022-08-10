@@ -1,4 +1,4 @@
-package com.tempo.tycho;
+package codesmell;
 
 /**
  * As a senior developer on your team, a junior developer has submitted this piece of code for you to review.

@@ -20,6 +20,9 @@ Technologies/Libraries used:
 ### Task
 
 1. Add an endpoint that allows roles to be added
-2. Add an endpoint that allows roles to be updated
-3. Add an endpoint that allows roles to be deleted
+2. Add unit tests (and integration tests)
+
+Bonus:
+1. Add an endpoint that allows roles to be updated
+2. Add an endpoint that allows roles to be deleted
 
